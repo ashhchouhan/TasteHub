@@ -42,7 +42,6 @@ TasteHub is a modern  restaurant web app built with **ReactJS**. It allows users
 ✅ **🔎 Search & Filter** – Search dishes by name and filter by cuisine dynamically.  
 ✅ **📊 Compare Dishes** – Compare two selected dishes side-by-side for price, calories, and cuisine.  
 ✅ **🔐 Login/Logout** – Simple authentication system for user sessions.  
-✅ **💸 Bill Calculator (Optional)** – Calculate total price with GST & tips.  
 ✅ **📄 Pagination** – Navigate through large menus smoothly (15 dishes per page).  
 ✅ **🌟 Modern UI/UX** – Clean and elegant design with responsive layouts.  
 
